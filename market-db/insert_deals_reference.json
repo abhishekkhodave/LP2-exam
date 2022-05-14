@@ -1,0 +1,35 @@
+[
+    {
+        "imageName": "offer1.jpg",
+        "title": "10% off on personal cares",
+        "handsetCols": 2,
+        "handsetRows":1,
+        "webCols":2,
+        "webRows":1
+
+    },
+    {
+        "imageName": "offer2.jpg",
+        "title": "Flat sales in Footwares",
+        "handsetCols": 2,
+        "handsetRows":1,
+        "webCols":1,
+        "webRows":1
+    },
+    {
+        "imageName": "offer3.jpg",
+        "title": "Extended warranty for Apple products",
+        "handsetCols": 2,
+        "handsetRows":1,
+        "webCols":1,
+        "webRows":2
+    },
+    {
+        "imageName": "offer4.jpg",
+        "title": "10% off on personal cares",
+        "handsetCols": 2,
+        "handsetRows":1,
+        "webCols":1,
+        "webRows":1
+    }
+]
